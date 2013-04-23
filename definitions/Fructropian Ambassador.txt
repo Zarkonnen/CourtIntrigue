@@ -1,0 +1,5 @@
+Fructropian Ambassador
+Bribe Cost: 10
+Base Reputation: 4
+[Diplomatic Immunity]
+[Gullible]

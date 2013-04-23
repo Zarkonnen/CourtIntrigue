@@ -1,0 +1,3 @@
+Basic Plot: Charitable Works
+Cost: 3 Money
+Actor loses 1 notoriety.

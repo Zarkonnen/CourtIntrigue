@@ -1,0 +1,5 @@
+Bumbling Manservant
+Bribe Cost: 1
+Base Reputation: 1
+Servant
+[Blatant]

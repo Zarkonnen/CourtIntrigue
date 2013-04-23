@@ -1,0 +1,5 @@
+Father Writhinghands
+Bribe Cost: 1
+Base Reputation: 3
+Priest
+Plot master: Forged letters: Accumulates no evidence from forging letters.

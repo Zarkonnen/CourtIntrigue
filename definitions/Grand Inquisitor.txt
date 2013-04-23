@@ -1,0 +1,6 @@
+Grand Inquisitor
+Bribe Cost: 10
+Reputation: 4
+Priest
+[Pious]
+Special Plot: Inquisition: Target must have at least 5 notoriety. They are either killed or buy lenience by accusing another character in the same conspiracy, in which case they gain 2 Notoriety and that character is killed instead.

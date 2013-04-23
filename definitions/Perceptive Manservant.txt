@@ -1,0 +1,5 @@
+Perceptive Manservant
+Bribe Cost: 1
+Base Reputation: 1
+Servant
+Plot Master: Sabotage: Succeeds on a roll of 2-6.

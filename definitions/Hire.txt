@@ -1,0 +1,4 @@
+Plot: Hire
+Cost: 1 + Target wealth + Notoriety gained by other plot
+1 Notoriety
+Target must not be part of a conspiracy. Play hire along with another plot. The target enacts the second plot upon a target of your choice.

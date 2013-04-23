@@ -1,0 +1,3 @@
+Plot: Push down the stairs
+Notoriety: 4 + Half Target Reputation
+Actor must have at least 2 reputation. Target dies on a roll of 3, 4, 5 or 6. Actor gains this card as a Skeleton in the Closet. If the plot fails, target loses 4 notoriety.

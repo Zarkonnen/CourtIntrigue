@@ -1,0 +1,4 @@
+Plot: Defrock
+Cost: 1
+Actor must be a cardinal or pope. Target must be a priest, but not a cardinal or pope. Target must have at least 4 notoriety.
+Plot remains on target. Target is no longer a priest.

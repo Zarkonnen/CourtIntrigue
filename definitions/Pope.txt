@@ -1,0 +1,7 @@
+Pope
+Bribe Cost: 12
+Base Reputation: 4
+[Diplomatic Immunity]
+[Very Wealthy]
+Plot master: Slander. Never gains Notoriety for slandering someone.
+All pious characters in the same conspiracy as the Pope have Unshakeable Loyalty.

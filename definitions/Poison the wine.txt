@@ -1,0 +1,4 @@
+Plot: Poison the wine
+Cost: 2
+4 Notoriety + Highest Target Reputation
+Kills all characters who are Drunkards. Actor gains all victims as Skeletons in the Closet.

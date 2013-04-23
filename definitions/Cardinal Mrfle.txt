@@ -1,0 +1,8 @@
+Cardinal Mrfle
+Bribe Cost: 3
+Base Reputation: 3
+Priest
+Cardinal
+[Blabbermouth]
+[Prince of the Empire]
+Plot master: Slander. Never gains Notoriety for slandering someone.

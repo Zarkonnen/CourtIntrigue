@@ -1,0 +1,8 @@
+Baron Heroicus
+Bribe Cost: 3
+Base Reputation: 8
+Noble
+[Charismatic]
+[Dangerous]
+[Unshakeable Loyalty]
+Ineligible for assassination, bribery.

@@ -1,0 +1,4 @@
+Basic Plot: Slander
+Actor must have more reputation than target.
+1 Notoriety
+Target gains 2 notoriety.

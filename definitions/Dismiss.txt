@@ -1,0 +1,3 @@
+Plot: Dismiss
+Target must be a servant with 0 reputation or less.
+Target is discarded.

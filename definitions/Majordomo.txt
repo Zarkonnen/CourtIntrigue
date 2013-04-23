@@ -1,0 +1,6 @@
+Majordomo
+Bribe Cost: 3
+Reputation: 5
+Special Plot: Co-opt:
+Target must be a servant in the pool.
+Target joins your conspiracy.

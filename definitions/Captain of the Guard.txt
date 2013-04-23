@@ -1,0 +1,5 @@
+Captain of the Guard
+Bribe Cost: 2
+Reputation: 4
+Drunkard
+Assassinations by the player who controls the Captain of the Guard produce 1 less notoriety.

@@ -1,0 +1,4 @@
+Plot: Expel
+Target must be in your conspiracy
+Cost: 5
+Target leaves your conspiracy and returns to the pool.

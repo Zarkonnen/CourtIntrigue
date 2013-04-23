@@ -1,0 +1,5 @@
+Pretty Chambermaid
+Bribe Cost: 2
+Base Reputation: 1
+Servant
++2 to seduction rolls.

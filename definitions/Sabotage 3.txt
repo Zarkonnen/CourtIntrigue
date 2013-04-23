@@ -1,0 +1,3 @@
+Plot: Sabotage
+Play just after a plot card is played.
+If the plot is your own, it fails. If the plot is another player's, it fails on a 4, 5 or 6.

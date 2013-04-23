@@ -1,0 +1,3 @@
+Plot: Escape Route
+Cost: 8
+Plot remains in play on the actor. If the actor would be removed from the game, they instead flee to another country for 3 turns, losing 3 notoriety in the process.

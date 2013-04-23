@@ -1,0 +1,8 @@
+Count Tanaxos
+Bribe Cost: 6
+Base Reputation: 5
+Noble
+[Blatant]
+[Fickle]
+[Blabbermouth]
+[Prince of the Empire]

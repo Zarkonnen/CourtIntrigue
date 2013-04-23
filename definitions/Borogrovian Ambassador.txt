@@ -1,0 +1,6 @@
+Borogrovian Ambassador
+Bribe Cost: 6
+Base Reputation: 2
+[Diplomatic Immunity]
+[Blatant]
+Drunkard

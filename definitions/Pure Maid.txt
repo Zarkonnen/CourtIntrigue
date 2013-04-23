@@ -1,0 +1,7 @@
+Idealistic Chambermaid
+Bribe Cost: 4
+Base Reputation: 2
+Servant
+[Charismatic]
+[Pious]
+Ineligible for assassination, seduction

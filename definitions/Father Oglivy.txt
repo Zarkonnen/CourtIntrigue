@@ -1,0 +1,6 @@
+Father Oglivy
+Bribe Cost: 3
+Base Reputation: 5
+Priest
+[Charismatic]
+[Persuasive]

@@ -1,0 +1,3 @@
+Plot: Would you not rather work for me?
+All characters on the target's side other than the target must have a lower reputation than the actor.
+Target joins your conspiracy.

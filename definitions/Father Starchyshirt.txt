@@ -1,0 +1,6 @@
+Father Starchyshirt
+Base Reputation: 4
+Priest
+[Incorruptible]
+[Unshakeable Loyalty]
+[Charismatic]

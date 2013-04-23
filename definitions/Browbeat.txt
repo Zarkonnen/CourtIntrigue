@@ -1,0 +1,3 @@
+Plot: Browbeat
+Actor must be a non-servant with at least 4 reputation. Target must be a servant not part of a conspiracy.
+Target joins your conspiracy.

@@ -1,0 +1,4 @@
+Murder Plot: Duel
+Actor and target must both be nobles.
+2 Notoriety + Half Target Reputation
+Plot succeeds on a roll of 5 or 6. A roll of 1 kills the actor instead. If the plot fails, target loses 2 notoriety.

@@ -1,0 +1,6 @@
+Wealthy Merchant
+Bribe Cost: 4
+Base Reputation: 3
+Drunkard
+[Fickle]
+[Extremely Wealthy]

@@ -1,0 +1,4 @@
+Plot: Drunken confession
+Cost: 1
+1 Notoriety
+Target must be a drunkard. Target gains 2 notoriety, or 5 if they have a Skeleton in the Closet.

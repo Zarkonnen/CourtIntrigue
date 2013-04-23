@@ -1,0 +1,4 @@
+Basic Plot: Bribe
+1 Notoriety
+Cost: Bribe cost, or 2x Bribe cost if already in a conspiracy
+Target joins your conspiracy.

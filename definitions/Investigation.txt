@@ -1,0 +1,4 @@
+Plot: Investigation
+Cost: 5
+Actor must have at least 4 reputation. Target must have at least 4 notoriety.
+Target gains another 3 notoriety.

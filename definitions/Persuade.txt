@@ -1,0 +1,2 @@
+Basic Plot: Persuade
+If the target is already in a conspiracy, they join yours on a roll of 6, otherwise on a roll of 5 or 6.

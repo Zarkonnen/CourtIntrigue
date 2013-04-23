@@ -1,0 +1,4 @@
+Plot: Embarassing riding accident
+1 Notoriety
+Actor must be a servant. Target must be a noble.
+Target gains 2 notoriety.

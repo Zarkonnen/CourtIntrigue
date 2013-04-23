@@ -1,0 +1,6 @@
+Handsome Page
+Bribe Cost: 5
+Base Reputation: 2
+Servant
++2 to seduction rolls.
+[Persuasive]

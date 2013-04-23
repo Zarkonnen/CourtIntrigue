@@ -1,0 +1,6 @@
+Loyal Manservant
+Bribe Cost: 1
+Base Reputation: 2
+Servant
+[Criminal]
+[Unshakeable Loyalty]

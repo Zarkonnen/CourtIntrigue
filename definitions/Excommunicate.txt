@@ -1,0 +1,3 @@
+Plot: Excommunicate
+Actor must be a cardinal or pope. Target must have at least 4 notoriety, or be a heretic.
+Target gains 4 notoriety.

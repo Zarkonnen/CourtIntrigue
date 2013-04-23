@@ -1,0 +1,3 @@
+Plot: Humiliate the help
+Actor must be a noble. Target must be a servant.
+Target gains 1 notoriety.

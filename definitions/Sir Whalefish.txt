@@ -1,0 +1,6 @@
+Sir Whalefish
+Bribe Cost: 3
+Base Reputation: 4
+Noble
+[Gullible]
+[Very Wealthy]

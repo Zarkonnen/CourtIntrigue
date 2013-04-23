@@ -1,0 +1,5 @@
+Plot: Incite the crowd
+Cost: 2
+Notoriety: 2
+Target must have 0 reputation or less.
+Target dies on a roll of 3, 4, 5 or 6. Actor gains the victim as a Skeleton in the Closet. If the plot fails, target loses 3 notoriety.

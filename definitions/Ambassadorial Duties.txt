@@ -1,0 +1,3 @@
+Plot: Ambassadorial Duties
+Cost 4
+Actor and target must be nobles, and can be the same character. Target must have at least 4 reputation. Removes the target from play for 3 turns as they go and perform some unbearably tedious but important duty in another country. Removes 4 notoriety from target.

@@ -1,0 +1,7 @@
+Father Rumbucket
+Bribe Cost: 2
+Base Reputation: 3
+Priest
+Drunkard
+[Muckraker]
+[Incorruptible]

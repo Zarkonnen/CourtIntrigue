@@ -1,0 +1,6 @@
+Murderous Chambermaid
+Bribe Cost: 2
+Base Reputation: 1
+Servant
+[Dangerous]
++1 to assassination die rolls.

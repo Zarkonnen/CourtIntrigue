@@ -1,0 +1,4 @@
+Plot: False alibi
+Cost: 2
+2 Notoriety
+Decrease target's notoriety by 3.

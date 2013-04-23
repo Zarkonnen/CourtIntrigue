@@ -1,0 +1,4 @@
+Plot: Forged letters
+Cost: 2
+1 Notoriety
+Target gains 3 notoriety.

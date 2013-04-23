@@ -1,0 +1,3 @@
+Plot: Forged evidence
+Cost: 4
+Play during court case. Adds or subtracts 10 to/from the case value.

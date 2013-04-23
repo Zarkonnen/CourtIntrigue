@@ -1,0 +1,8 @@
+Grand Vizier
+Bribe Cost: 7
+Base Reputation: 7
+Noble
+[Very Wealthy]
+Special Plot: I can make those charges disappear
+Cost: 4
+Remove target's Skeleton in the Closet.

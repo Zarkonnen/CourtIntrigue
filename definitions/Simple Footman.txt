@@ -1,0 +1,6 @@
+Simple Footman
+Bribe Cost: 1
+Base Reputation: 2
+Servant
+[Blatant]
+[Blabbermouth]

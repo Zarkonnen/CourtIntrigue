@@ -1,0 +1,7 @@
+Drunken thug
+Bribe Cost: 0
+Base Reputation: 1
+Servant
+[Criminal]
+[Dangerous]
+Drunkard

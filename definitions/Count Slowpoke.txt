@@ -1,0 +1,8 @@
+Count Slowpoke
+Bribe Cost: 3
+Base Reputation: 6
+Noble
+[Gullible]
+[Wealthy]
+[Pious]
+[Prince of the Empire]

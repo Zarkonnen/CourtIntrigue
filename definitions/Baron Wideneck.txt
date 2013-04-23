@@ -1,0 +1,6 @@
+Baron Wideneck
+Bribe Cost: 5
+Base Reputation: 4
+Noble
++1 to assassination die rolls.
+Drunkard

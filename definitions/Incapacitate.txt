@@ -1,0 +1,4 @@
+Plot: Incapacitate
+Cost: 2
+1 Notoriety
+Target must be a drunkard. Target is removed from game for one turn.

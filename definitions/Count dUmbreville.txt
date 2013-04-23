@@ -1,0 +1,6 @@
+Count d'Umbreville
+Bribe Cost: 15
+Base Reputation: 2
+[Wealthy]
+[Smooth Operator]
+[Prince of the Empire]

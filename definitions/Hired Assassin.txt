@@ -1,0 +1,7 @@
+Hired Assassin
+Bribe Cost: 6
+Base Reputation: 2
+Servant
+[Criminal]
+[Dangerous]
++1 to assassination die rolls.

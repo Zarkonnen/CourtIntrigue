@@ -1,0 +1,4 @@
+Plot: A sexy death
+Cost: 2
+Notoriety: 3 + Half Target Reputation
+Target dies on a roll of 4, 5 or 6. Roll influenced by seduction roll modifiers. Actor gains the victim as a Skeleton in the Closet.

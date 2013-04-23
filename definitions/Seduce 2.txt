@@ -1,0 +1,4 @@
+Plot: Seduce
+Cost: 2
+2 Notoriety
+Target gains 1 notoriety and joins your conspiracy on a roll of 5 or 6.

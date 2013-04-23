@@ -1,0 +1,6 @@
+Thug
+Bribe Cost: 1
+Base Reputation: 1
+Servant
+[Criminal]
+[Dangerous]

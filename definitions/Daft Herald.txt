@@ -1,0 +1,6 @@
+Daft Herald
+Bribe Cost: 2
+Base Reputation: 3
+Servant
+[Pious]
+[Gullible]

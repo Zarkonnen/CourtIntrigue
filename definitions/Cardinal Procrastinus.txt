@@ -1,0 +1,8 @@
+Cardinal Procrastinus
+Bribe Cost: 5
+Base Reputation: 4
+Priest
+Cardinal
+[Wealthy]
+[Discreet]
+[Prince of the Empire]

@@ -1,0 +1,6 @@
+Wealthy Merchant
+Bribe Cost: 4
+Base Reputation: 1
+[Unlikeable]
+[Pious]
+[Extremely Wealthy]

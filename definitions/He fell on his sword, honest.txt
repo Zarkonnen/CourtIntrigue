@@ -1,0 +1,3 @@
+Plot: He fell on his sword, honest
+Notoriety: 3 + Half Target Reputation
+Actor must have at least 2 reputation. Target dies on a roll of 4, 5 or 6. Actor gains the victim as a Skeleton in the Closet. If the plot fails, target loses 4 notoriety.

@@ -1,0 +1,4 @@
+Plot: Silence the witnesses
+Cost: 3
+5 Notoriety
+Target loses a Skeleton in the Closet. Actor gains a Skeleton in the Closet.

@@ -1,0 +1,5 @@
+Sir Slickbrow
+Bribe Cost: 5
+Base Reputation: 4
+Noble
+[Persuasive]

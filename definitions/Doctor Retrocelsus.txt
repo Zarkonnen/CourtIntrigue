@@ -1,0 +1,9 @@
+Doctor Retrocelsus
+Bribe Cost: 1
+Base Reputation: 5
+[Unlikeable]
+Ineligible for assassination
+Plot: Good medicine:
+Cost: 4
+Minimum reputation: 3.
+The emperor's health increases by one.

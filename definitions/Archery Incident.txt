@@ -1,0 +1,4 @@
+Plot: Archery Incident
+Notoriety: 1 + Half Target Reputation
+Actor must be a noble.
+Target dies on a roll of 4, 5 or 6. Actor gains the victim as a Skeleton in the Closet. If the plot fails, target loses 3 notoriety.

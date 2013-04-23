@@ -1,0 +1,3 @@
+Plot: Cyanide
+Cost: 2
+Plot remains in play on the actor. If the actor is accused, they die immediately.

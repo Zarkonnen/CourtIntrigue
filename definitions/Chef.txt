@@ -1,0 +1,8 @@
+Chef
+Bribe Cost: 1
+Base Reputation: 2
+Servant
+Special Plot: Poison
+Cost: 2
+Notoriety: 5 + Half Target Reputation
+Target dies on a roll of 5 or 6. Actor gains the victim as a Skeleton in the Closet. If the plot fails, target loses 2 notoriety.

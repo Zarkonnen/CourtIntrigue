@@ -1,0 +1,6 @@
+Sir Enigma
+Bribe Cost: 7
+Base Reputation: 3
+Noble
+[Discreet]
+[Persuasive]

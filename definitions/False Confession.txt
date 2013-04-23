@@ -1,0 +1,5 @@
+Plot: False confession
+Cost: 2
+3 Notoriety
+The target must be a servant.
+Transfer one Skeleton in the Closet from any character to the target. A court case then begins immediately with the target as the subject.

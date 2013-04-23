@@ -1,0 +1,7 @@
+Count Fleshneck
+Bribe Cost: 3
+Base Reputation: 7
+Noble
+[Dangerous]
+Drunkard
+[Prince of the Empire]

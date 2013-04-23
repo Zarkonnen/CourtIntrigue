@@ -1,0 +1,5 @@
+Ul'Qoman Ambassador
+Bribe Cost: 6
+Base Reputation: 10
+[Diplomatic Immunity]
+[Discreet]
